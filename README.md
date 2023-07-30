@@ -1,10 +1,5 @@
 # library-events-producer
 
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'com.learnkafka.libraryeventsproducer.library-events-producer' is invalid and this project uses 'com.learnkafka.libraryeventsproducer.libraryeventsproducer' instead.
-
 # Getting Started
 
 ### Reference Documentation
