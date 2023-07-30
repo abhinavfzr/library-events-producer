@@ -1,8 +1,0 @@
-C:\projects\kafka-for-developers-using-spring-boot-main\library-events-producer\src\main\java\com\learnkafka\libraryeventsproducer\libraryeventsproducer\controller\LibraryEventsController.java
-C:\projects\kafka-for-developers-using-spring-boot-main\library-events-producer\src\main\java\com\learnkafka\libraryeventsproducer\libraryeventsproducer\domain\Book.java
-C:\projects\kafka-for-developers-using-spring-boot-main\library-events-producer\src\main\java\com\learnkafka\libraryeventsproducer\libraryeventsproducer\LibraryEventsProducerApplication.java
-C:\projects\kafka-for-developers-using-spring-boot-main\library-events-producer\src\main\java\com\learnkafka\libraryeventsproducer\libraryeventsproducer\config\AutoCreateConfig.java
-C:\projects\kafka-for-developers-using-spring-boot-main\library-events-producer\src\main\java\com\learnkafka\libraryeventsproducer\libraryeventsproducer\domain\LibraryEventType.java
-C:\projects\kafka-for-developers-using-spring-boot-main\library-events-producer\src\main\java\com\learnkafka\libraryeventsproducer\libraryeventsproducer\producer\LibraryEventProducer.java
-C:\projects\kafka-for-developers-using-spring-boot-main\library-events-producer\src\main\java\com\learnkafka\libraryeventsproducer\libraryeventsproducer\controller\LibraryEventControllerAdvice.java
-C:\projects\kafka-for-developers-using-spring-boot-main\library-events-producer\src\main\java\com\learnkafka\libraryeventsproducer\libraryeventsproducer\domain\LibraryEvent.java
